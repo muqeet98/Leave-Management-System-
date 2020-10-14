@@ -1,1 +1,2 @@
-# Leave-Management-System-
+# Leave-Management-System
+Employee Leave Management System
